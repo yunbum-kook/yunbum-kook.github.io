@@ -102,6 +102,18 @@ h2 {
   font-weight: 700;
 }
 
+.publication-cell {
+  line-height: 1.18;
+}
+
+.publication-cell a {
+  line-height: 1.18;
+}
+
+.publication-cell strong {
+  line-height: 1.12;
+}
+
 .name {
   padding-top: 20px;
   margin: 0;
